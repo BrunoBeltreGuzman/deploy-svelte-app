@@ -1,6 +1,15 @@
 # deploy-svelte-app
 Testing deploy in vercel application developed in svelte.js
 
+<<<<<<< HEAD
+=======
+**preview**
+
+https://deploy-svelte-app.vercel.app/
+
+
+
+>>>>>>> fe5a05205eff4da91e584f41549bb20df88cc74d
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---

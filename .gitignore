@@ -3,6 +3,10 @@
 
 .DS_Store
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> fe5a05205eff4da91e584f41549bb20df88cc74d
 # Logs
 logs
 *.log
